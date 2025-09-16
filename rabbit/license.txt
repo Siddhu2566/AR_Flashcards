@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly Bunny
+* source:	https://sketchfab.com/3d-models/lowpoly-bunny-823a5ab7b1f044e8815f734016f520a2
+* author:	gringlas (https://sketchfab.com/gringlas)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly Bunny" (https://sketchfab.com/3d-models/lowpoly-bunny-823a5ab7b1f044e8815f734016f520a2) by gringlas (https://sketchfab.com/gringlas) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
